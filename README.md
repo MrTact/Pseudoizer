@@ -1,4 +1,4 @@
-Psuedoizer
+Pseudoizer
 ==========
 
-Psuedoizer - Psuedointernationalization Utility
+Pseudoizer - Pseudointernationalization Utility
